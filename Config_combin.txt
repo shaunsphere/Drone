@@ -1,0 +1,63 @@
+Config simulation ECalc (Attached PDF), include
+1) Same Frame Tarot 680PRO
+https://hobbyking.com/en_us/tarot-680pro-hexacopter-folding-frame-3k-carbon-kit.html/?___store=en_us
+2) Same Navio2 / Pi3
+3) Same Fubata
+4) Same 3DR 915MHZ
+5) Same LiPo Battery: a) Red 4S/6600Ahm 14.8V (real measure = 16.7V) b) Green 4S/10000Ahm 14.8V (real measure = 16.7V)
+
+Need Change: 6 Motors+Propellers/ESC nhu sau:
+
+6) Motor: Loai Anh Ha` Selected
+http://www.helipal.com/tl68p02-4006-620kv-brushless-motor.html
+Specification :
+- Model : 4006
+- KV : 620KV
+- Power Supply : 4S Li-Po
+- Suitable for : 3~4KG drone
+- Propeller Mounting : Two Holes, M3 holes with 12mm spacing
+- The motor outer diameter: 46mm
+- The stator diameter: 40.6m
+- The stator end thickness: 6mm
+- The stator terminal number: 24 slot
+- Motor pole number: 22P
+- The wire diameter: 0.23mm
+- Gear shaft installation - diameter: 4mm
+- Motor height: 22.0mm
+- The motor shaft length: 30.50mm
+- Motor weight: 82G.
+- Motor resistance: 126 M.
+- No load current 14.8V: 0.8A.
+- 14.8 load current: 14A.
+- Mounting hole : 27mm triangle
+
+7) Props:  Loai Anh Ha` Selected
+http://www.helipal.com/tl2829-carbon-fiber-high-efficient-propeller-cw-ccw.html
+Specifications :
+- Blended Winglet increase efficiency by 13%
+- Stronger design in the center, increases the strength and efficiency.
+- 100% carbon TORAY 3K pure carbon fiber applied .
+- Well-balanced from factory .
+- Optimized propeller efficiency and loading stability .
+- Diameter : 12 inch
+- Pitch : 5.5 inch
+- Weight: 14g / PCS
+- Hole diameter: 4mm (middle), 3mm (side)
+- Distance from hole to hole: 12mm
+Suitable for : 2.5-3.8kg drones, especially Tarot FY680-690 frame with Tarot 4006 Motor
+
+8) ESC : Anh Tuan Select
+http://www.helipal.com/hobbywing-platinum-30a-opto-pro-esc-a-type.html
+Specification
+- Output : Continuous 30A, burst 40A up to 10 seconds
+- Input Voltage : 2-6 cells lithium battery or 5-18 cells NiMH battery (tested on 5kg 6 rotor drone, 6S battery, 4822-390kv motor and 1238 propellers, motor's still cool)
+- BEC : Not available
+- Refresh rate of the throttle signal : 50Hz to 432Hz
+- Control Signal Transmission : Optical/electrical coupled system.
+- Max Speed: 210000rpm for 2 Poles BLM, 70000rpm for 6 poles BLM, 35000rpm for 12 poles BLM (BLM = BrushLess Motor)
+- Size: 55mm (L) x 25mm (W) x 12mm (H)
+- Weight: 31g
+
+
+
+
